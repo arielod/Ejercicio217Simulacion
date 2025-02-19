@@ -148,8 +148,9 @@ namespace Ejercicio217Simulacion
                     reloj = finProcesamiento;
                     evento = $"Fin Procesamiento (paquete {paqueteEnProceso})";
 
-                    if (horaLlegadaNum != -1)
+                    if (paqueteEnProceso != -1 && horaLlegadaPaquete.ContainsKey(paqueteEnProceso))
                     {
+                        horaLlegadaNum = horaLlegadaPaquete[paqueteEnProceso];
                         demora = reloj - horaLlegadaNum;
                     }
                     else
@@ -262,9 +263,3 @@ namespace Ejercicio217Simulacion
         }
     }
 }
-
-
-
-
-
-
