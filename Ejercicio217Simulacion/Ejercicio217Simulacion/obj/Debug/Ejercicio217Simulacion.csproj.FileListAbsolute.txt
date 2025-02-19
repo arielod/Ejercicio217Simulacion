@@ -1,0 +1,10 @@
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\bin\Debug\Ejercicio217Simulacion.exe.config
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\bin\Debug\Ejercicio217Simulacion.exe
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\bin\Debug\Ejercicio217Simulacion.pdb
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\obj\Debug\Ejercicio217Simulacion.csproj.AssemblyReference.cache
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\obj\Debug\Ejercicio217Simulacion.Form1.resources
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\obj\Debug\Ejercicio217Simulacion.Properties.Resources.resources
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\obj\Debug\Ejercicio217Simulacion.csproj.GenerateResource.cache
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\obj\Debug\Ejercicio217Simulacion.csproj.CoreCompileInputs.cache
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\obj\Debug\Ejercicio217Simulacion.exe
+D:\Users\Ariel\Desktop\FinalSIM\Final SIM\Ejercicio217Simulacion\Ejercicio217Simulacion\obj\Debug\Ejercicio217Simulacion.pdb
